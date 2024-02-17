@@ -9,40 +9,46 @@ Welcome to the Circle 139 Collective Project Repository! This repository is dedi
      ```
      git clone https://github.com/nathphil9411/altschool_circle_139.git
      ```
-   
 2. **Navigate to the Project Directory:**
+
    - Change into the project directory:
      ```
-     cd project
+     cd altschool_circle_139
+     run npm install to install the dependencies.
      ```
 
 3. **Create a Branch:**
+
    - Create a new branch for your work. Make sure to use a descriptive branch name:
      ```
      git checkout -b feature/your-feature
      ```
 
 4. **Make Changes:**
+
    - Make your changes to the codebase.
 
 5. **Commit Changes:**
+
    - Commit your changes with a meaningful commit message:
      ```
-     git commit -m "Add feature: your feature description"
+     example  git commit -m "Add feature: your feature description"
      ```
 
 6. **Push Changes:**
+
    - Push your changes to the remote repository:
      ```
      git push origin feature/your-feature
      ```
 
 7. **Create a Pull Request:**
+
    - Create a new pull request (PR) from your branch to the `main` branch.
    - Provide a detailed description of your changes in the PR.
 
 8. **Review and Merge:**
-   - After creating the PR, other members will review your changes.
+   - After creating the PR, other members will review your changes in the whatsapp group.
    - Once approved, the changes will be merged into the `main` branch.
 
 ## Development Guidelines
@@ -56,7 +62,7 @@ Welcome to the Circle 139 Collective Project Repository! This repository is dedi
 
 -We can share our challenges via the slack channel or whatsApp
 
-9. ***Documentation***
+9. **_Documentation_**
    use this format for the crud domentation
    # CRUD Operations Documentation
 
@@ -87,6 +93,7 @@ The `create` operation involves adding new data to the system.
     "field2": "value2",
     // Additional fields as needed
   }
-The documantation continues on this READMe.md file.
+  The documantation continues on this READMe.md file.
+  ```
 
 Happy coding! 🚀

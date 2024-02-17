@@ -1,0 +1,14 @@
+{
+  "name": "task_app",
+  "version": "1.0.0",
+  "description": "A coolective task app backend built by alt_school circle 139",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Circle 139",
+  "license": "ISC",
+  "dependencies": {
+    "expess": "^0.0.1-security"
+  }
+}

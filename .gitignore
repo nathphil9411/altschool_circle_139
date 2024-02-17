@@ -1,0 +1,54 @@
+# Ignore compiled files and build directories
+/bin/
+/obj/
+/out/
+/.idea/
+/.vscode/
+
+# Ignore package manager directories
+/node_modules/
+/vendor/
+/packages/
+
+# Ignore local configuration files
+/.env
+/.env.local
+.env.local
+/.env.*.local
+.env.*.local
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Ignore user-specific files
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore generated files
+*.log
+*.swp
+*.bak
+*.tmp
+
+# Ignore misc
+/.classpath
+/.project
+/.settings/
+/*.iml
+*.DS_Store?
+*.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
